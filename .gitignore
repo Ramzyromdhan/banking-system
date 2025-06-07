@@ -1,0 +1,37 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.versions
+pom.xml.backup
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+build/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.log
+logs/
+temp/
+tmp/
+
+# Configuration files
+*.properties
+*.config
+*.env
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Compiled class files
+*.class
